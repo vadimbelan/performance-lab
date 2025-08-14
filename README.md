@@ -1,8 +1,10 @@
-# Белан Вадим Игоревич
+# Тестовое задание
 
 **Ссылка на резюме:** https://hh.ru/resume/6ac3fce9ff0f3367fe0039ed1f4b71694c7979
 
-**Описание заданий:** https://disk.yandex.com/i/7yV7bpMuyO5FTg
+**Файл с заданием:** https://disk.yandex.com/i/7yV7bpMuyO5FTg
+
+[![Python CI](https://github.com/vadimbelan/performance-lab/actions/workflows/python-ci.yml/badge.svg)](https://github.com/vadimbelan/performance-lab/actions/workflows/python-ci.yml)
 
 Решение задач представлено в файлах:
   - `1_task.py`
