@@ -21,7 +21,7 @@ def read_numbers(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             return [int(line.strip()) for line in file if line.strip()]
-    except OSError as e:
+    except OSError:
         raise OSError("Файл не найден")
     except ValueError:
         raise ValueError("Файл должен содержать целые числа")
