@@ -1,6 +1,6 @@
 # Тестовое задание
 
-**Ссылка на резюме:** https://hh.ru/resume/6ac3fce9ff0f3367fe0039ed1f4b71694c7979
+**Ссылка на резюме:** https://docs.google.com/document/d/1ZhNRsDc3YNTaZdVlhBotcoOm0J17BwrF8RsNxHhnBi0/edit?usp=sharing
 
 **Файл с заданием:** https://disk.yandex.com/i/7yV7bpMuyO5FTg
 
